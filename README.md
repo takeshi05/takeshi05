@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Alfa Pratama</h1>
-<h3 align="center">Saya adalah seorang web developer yang berdedikasi dan bersemangat dalam menciptakan solusi kreatif dan inovatif dalam pengembangan situs web.
+<h3 align="center">Saya adalah seorang web developer yang berdedikasi dan bersemangat dalam menciptakan solusi kreatif dan inovatif dalam pengembangan situs web.<br>
 <br>Dengan pengalaman yang luas dalam bahasa pemrograman seperti HTML, CSS, dan JavaScript, saya mampu mengubah konsep desain menjadi situs web interaktif yang menarik dan responsif.
 <br>Saya memiliki keahlian dalam mengimplementasikan kerangka kerja seperti Bootstrap dan React untuk mempercepat proses pengembangan dan meningkatkan efisiensi.
 <br>Saya juga memiliki pemahaman yang kuat tentang konsep desain UI/UX, sehingga mampu menciptakan pengalaman pengguna yang optimal.
