@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Alfa Pratama</h1>
 <h3 align="center">Saya adalah seorang web developer yang berdedikasi dan bersemangat dalam menciptakan solusi kreatif dan inovatif dalam pengembangan situs web.<br>
-<br>Dengan pengalaman yang luas dalam bahasa pemrograman seperti HTML, CSS, dan JavaScript, saya mampu mengubah konsep desain menjadi situs web interaktif yang menarik dan responsif.<br>
-<br>Saya memiliki keahlian dalam mengimplementasikan kerangka kerja seperti Bootstrap dan React untuk mempercepat proses pengembangan dan meningkatkan efisiensi.<br>
-<br>Saya juga memiliki pemahaman yang kuat tentang konsep desain UI/UX, sehingga mampu menciptakan pengalaman pengguna yang optimal.<br>
-<br>Sebagai seorang web developer, saya senang memecahkan tantangan kompleks dan terus mengikuti perkembangan teknologi terbaru.<br>
-<br>Saya selalu mencari peluang untuk meningkatkan kemampuan saya melalui pembelajaran mandiri dan berpartisipasi dalam komunitas pengembang.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takeshi05&label=Profile%20views&color=0e75b6&style=flat" alt="takeshi05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takeshi05" alt="takeshi05" /></a> </p>
