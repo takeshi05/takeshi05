@@ -1,84 +1,111 @@
 <h1 align="center">DIMAS ALFA PRATAMA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Information+Systems;Cybersecurity+Enthusiast;Clean+Architecture+Focused" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;System+Architect;Cybersecurity+Specialist;Polyglot+Programmer;Performance+Driven+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/USERNAME_KAMU?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/USERNAME_KAMU?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=takeshi05&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/takeshi05?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/takeshi05?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ TECH STACK
+## ⚡ CORE EXPERTISE
 
-### 💻 Programming Languages
+- Advanced System Architecture  
+- Secure Backend Engineering  
+- High Performance Computing  
+- Database Engineering & Optimization  
+- Clean Code & Scalable Infrastructure  
+- Cybersecurity Implementation  
+
+---
+
+## 💻 PROGRAMMING LANGUAGES
+
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,go,rust,cs,php,bash" />
 </p>
 
-### 🗄 Database
+Additional Experience:
+- Assembly
+- Kotlin
+- Swift
+- Dart
+- SQL (Advanced Query Engineering)
+
+---
+
+## 🗄 DATABASE STACK
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </p>
 
-### 🛠 Tools & Environment
+Additional Exposure:
+- MariaDB  
+- Oracle Database  
+- Microsoft SQL Server  
+- Firebase Realtime DB  
+- Supabase  
+- Elasticsearch  
+
+Focus:
+- Query Optimization  
+- Index Engineering  
+- Transaction Handling  
+- ACID Compliance  
+- High Availability Design  
+
+---
+
+## 🛠 TOOLS & ENVIRONMENT
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,ubuntu,nginx,aws,azure,gcp,vscode,idea" />
 </p>
+
+Other Tools:
+- CI/CD Pipelines  
+- REST & API Engineering  
+- JWT & OAuth Security  
+- Microservices Design  
+- Virtualization & Containerization  
 
 ---
 
 ## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=takeshi05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=takeshi05&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_KAMU&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=takeshi05&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
----
-
-## 🧠 AREAS OF INTEREST
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
-![System Architecture](https://img.shields.io/badge/System%20Architecture-000000?style=for-the-badge)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-000000?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance-000000?style=for-the-badge)
 
 ---
 
-## 🚀 CURRENT OBJECTIVES
+## 🚀 CURRENT FOCUS
 
-- Build scalable production-ready systems  
-- Improve backend logic & API security  
-- Strengthen database optimization  
-- Deep dive into secure coding practices  
-- Contribute to impactful open-source projects  
-
----
-
-## 🧩 PROJECT CATEGORIES
-
-- Web Application Development  
-- Academic Information Systems  
-- Algorithm & Logic Exercises  
-- Security Testing Experiments  
-- Mini System Architectures  
-
+- Enterprise-grade backend systems  
+- Distributed system architecture  
+- Secure API design  
+- Advanced database engineering  
+- Infrastructure automation  
 
 ---
 
 <p align="center">
-  <b>Precision • Discipline • Execution</b>
+  <b>Elite Engineering • Precision Execution • Secure by Design</b>
 </p>
+
+
